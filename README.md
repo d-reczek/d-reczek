@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @d-reczek
 - 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning React, JavaScript
 - 📫 How to reach me dariusz.reczek@gmail.com
 
 <!---
