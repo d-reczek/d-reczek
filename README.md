@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @d-reczek
 - 👀 I’m interested in Front-end Developer
-- 🌱 I’m currently learning React, JavaScript
+- 🌱 I’m currently learning Redux, Typescript
 - 📫 How to reach me dariusz.reczek@gmail.com, [Linked In](https://www.linkedin.com/in/dariusz-reczek/)
 
 <!---
